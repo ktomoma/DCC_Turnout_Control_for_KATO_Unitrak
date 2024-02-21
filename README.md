@@ -14,7 +14,11 @@ First, let's take a look at the signal waveform that KATO Unitrak Power Pack is 
 
 * https://www.katousa.com/onlineshop/index.php?main_page=product_info&cPath=164&products_id=2132&zenid=81443cc49b92c96d755dbbbbe64d14cc)https://www.katousa.com/onlineshop/index.php?main_page=product_info&cPath=164&products_id=2132&zenid=81443cc49b92c96d755dbbbbe64d14cc
 
-<img src="https://github.com/ktomoma/DCC_Turnout_Control_for_KATO_Unitrak/assets/131932595/ceae95d0-d266-4a1e-84e9-1a6f170ed1ce)" width="480">
+<img src="https://github.com/ktomoma/DCC_Turnout_Control_for_KATO_Unitrak/assets/131932595/ceae95d0-d266-4a1e-84e9-1a6f170ed1ce" width="480">
+
+<img src="https://github.com/ktomoma/DCC_Turnout_Control_for_KATO_Unitrak/assets/131932595/acc10296-d4a9-430c-89dd-d6b8d84e86cd" width="480">
+
+<img src="https://github.com/ktomoma/DCC_Turnout_Control_for_KATO_Unitrak/assets/131932595/5508c496-36ad-4099-b653-a0bd93618ae0" width="320">
 
 Also KATO introduced the compatibility of their UNITRAK product with DCC here.
 * https://katousa.com/using-unitrack-with-dcc/
