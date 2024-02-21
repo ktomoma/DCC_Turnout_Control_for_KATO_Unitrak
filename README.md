@@ -14,6 +14,8 @@ First, let's take a look at the signal waveform that KATO Unitrak Power Pack is 
 
 * https://www.katousa.com/onlineshop/index.php?main_page=product_info&cPath=164&products_id=2132&zenid=81443cc49b92c96d755dbbbbe64d14cc)https://www.katousa.com/onlineshop/index.php?main_page=product_info&cPath=164&products_id=2132&zenid=81443cc49b92c96d755dbbbbe64d14cc
 
+<img src="https://github.com/ktomoma/VideoWebServer_for_CameraCar/assets/131932595/43e6fed7-295a-48c7-b18c-608b4e93ded8" width="480">
+
 Also KATO introduced the compatibility of their UNITRAK product with DCC here.
 * https://katousa.com/using-unitrack-with-dcc/
 
