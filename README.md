@@ -14,9 +14,6 @@ The Unitrak Power Pack has a connector on the side to connect Turnout switches a
 
 <img src="https://github.com/ktomoma/DCC_Turnout_Control_for_KATO_Unitrak/assets/131932595/ceae95d0-d266-4a1e-84e9-1a6f170ed1ce" width="480">
 
-* https://www.katousa.com/onlineshop/index.php?main_page=product_info&cPath=164&products_id=2132&zenid=81443cc49b92c96d755dbbbbe64d14cc)https://www.katousa.com/onlineshop/index.php?main_page=product_info&cPath=164&products_id=2132&zenid=81443cc49b92c96d755dbbbbe64d14cc
-
-
 Signal waveform of the turnout solinoid drive.
 
 The signal is a half of sign wave taken from AC current by a diode. The length is around 50 ms to 80 ms which is the duration when a mechanical momentum switch closes the circuit. 
