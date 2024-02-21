@@ -18,8 +18,11 @@ First, let's take a look at the signal waveform that KATO Unitrak Power Pack is 
 
 Signal waveform of the turnout solinoid drive.
 To Close
+
 <img src="https://github.com/ktomoma/DCC_Turnout_Control_for_KATO_Unitrak/assets/131932595/acc10296-d4a9-430c-89dd-d6b8d84e86cd" width="480">
+
 To Thrown
+
 <img src="https://github.com/ktomoma/DCC_Turnout_Control_for_KATO_Unitrak/assets/131932595/5508c496-36ad-4099-b653-a0bd93618ae0" width="320">
 
 Also KATO introduced the compatibility of their UNITRAK product with DCC here.
