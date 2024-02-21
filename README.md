@@ -9,7 +9,7 @@ My prototype models introruced here are consist of
 * 12V DC power source to drive turnouts
 
 ## Turnout Control by KATO Unitrak Power Pack
-First, let's take a look at the signal waveform that KATO Unitrak Power Pack [1] is controling Unitrack Turnouts.
+First, let's take a look at the signal waveform that KATO Unitrak Power Pack [^1] is controling Unitrack Turnouts.
 The Unitrak Power Pack has a connector on the side to connect Turnout switches as seen in the below picture.
 
 <img src="https://github.com/ktomoma/DCC_Turnout_Control_for_KATO_Unitrak/assets/131932595/ceae95d0-d266-4a1e-84e9-1a6f170ed1ce" width="480">
@@ -40,6 +40,6 @@ Also KATO introduced the compatibility of their UNITRAK product with DCC here.
 ### Turnout Controller
 
 ## Reference
-[1] Kato Power Pack: 
+[^1]: Kato Power Pack: 
 https://www.katousa.com/onlineshop/index.php?main_page=product_info&cPath=164&products_id=2132&zenid=81443cc49b92c96d755dbbbbe64d14cc)https://www.katousa.com/onlineshop/index.php?main_page=product_info&cPath=164&products_id=2132&zenid=81443cc49b92c96d755dbbbbe64d14cc
 
