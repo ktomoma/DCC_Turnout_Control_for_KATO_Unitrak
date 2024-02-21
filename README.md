@@ -38,3 +38,7 @@ Also KATO introduced the compatibility of their UNITRAK product with DCC here.
 ## Hardware
 ### DCC Accesary Decoder
 ### Turnout Controller
+
+## Reference
+Kato Power Pack: https://www.katousa.com/onlineshop/index.php?main_page=product_info&cPath=164&products_id=2132&zenid=81443cc49b92c96d755dbbbbe64d14cc)https://www.katousa.com/onlineshop/index.php?main_page=product_info&cPath=164&products_id=2132&zenid=81443cc49b92c96d755dbbbbe64d14cc
+
