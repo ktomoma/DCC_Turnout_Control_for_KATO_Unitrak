@@ -32,11 +32,23 @@ DCC Turnout Controller in my prototypes generate the signals with similar voltag
 Also KATO introduced the compatibility of their UNITRAK product with DCC here.
 * https://katousa.com/using-unitrack-with-dcc/
 
+## Methods to control a turnout
+1. Using a charing and discharging current for a capacitor
+2. Motor Driver IC TA7219P
+3. Using relays
+4. Combination of a capacitor and relays for multiple turnouts
+5. Combination of TA7219P and relays for multiple turnouts
+
 ## Hardware
 ### DCC Accesary Decoder
+DCC Accesary Decoder consits of an analog cirtuit portion to downconvert 12V~18V DC of DCC siangl to 5V DC so that Arduino can handle the siangl, and decoder made by Ardhino.
+The analog circuit portion ia made with octocuppler IC 6N137, and the recommended circuit is described in DCCInspector-EX section of DCC-EX project page [^2].
+
 ### Turnout Controller
 
 ## Reference
 [^1]: Kato Power Pack: 
 https://www.katousa.com/onlineshop/index.php?main_page=product_info&cPath=164&products_id=2132&zenid=81443cc49b92c96d755dbbbbe64d14cc)https://www.katousa.com/onlineshop/index.php?main_page=product_info&cPath=164&products_id=2132&zenid=81443cc49b92c96d755dbbbbe64d14cc
 
+[^2]: DCC-EX Inspector
+https://github.com/DCC-EX/DCCInspector-EX
