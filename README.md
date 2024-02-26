@@ -42,7 +42,7 @@ Also KATO introduced the compatibility of their UNITRAK product with DCC here.
 ## Hardware
 ### DCC Accesary Decoder
 DCC Accesary Decoder consits of an analog cirtuit portion to downconvert 12V~18V DC of DCC siangl to 5V DC so that Arduino can handle the siangl, and decoder made by Ardhino.
-The analog circuit portion ia made with octocuppler IC 6N137, and the recommended circuit is described in DCCInspector-EX section of DCC-EX project page [^2].
+The analog circuit portion is made with octocuppler IC 6N137, and the recommended circuit is described in DCCInspector-EX section of DCC-EX project page [^2] and Fun with Arduino 29 DCC Accessory Decoder [^3].
 
 ### Turnout Controller
 
@@ -52,3 +52,6 @@ https://www.katousa.com/onlineshop/index.php?main_page=product_info&cPath=164&pr
 
 [^2]: DCC-EX Inspector
 https://github.com/DCC-EX/DCCInspector-EX
+
+[^3]: Fun with Arduino 29 DCC Accessory Decoder
+https://rudysarduinoprojects.wordpress.com/2019/05/06/fun-with-arduino-29-dcc-accessory-decoder/
