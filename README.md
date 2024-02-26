@@ -20,11 +20,11 @@ The signal is a half of sign wave taken from AC current by a diode. The length i
 
 Thrown to Close
 
-<img src="https://github.com/ktomoma/DCC_Turnout_Control_for_KATO_Unitrak/assets/131932595/acc10296-d4a9-430c-89dd-d6b8d84e86cd" width="320">
+<img src="https://github.com/ktomoma/DCC_Turnout_Control_for_KATO_Unitrak/assets/131932595/563ba333-87cf-4418-a241-f7bf4a76cd5f" width="320">
 
 Close to Thrown
 
-<img src="https://github.com/ktomoma/DCC_Turnout_Control_for_KATO_Unitrak/assets/131932595/5508c496-36ad-4099-b653-a0bd93618ae0" width="320">
+<img src="https://github.com/ktomoma/DCC_Turnout_Control_for_KATO_Unitrak/assets/131932595/c4e7edc8-fbc7-4707-a752-79139fe73953" width="320">
 
 Because the load controled by the driver siangl is a solenoid in the turnout, it is not necessary the signal to be a sin wave or the duration is exactly same as what KATO Power Pack provies.
 DCC Turnout Controller in my prototypes generate the signals with similar voltage for simialr period with several differnt method.
