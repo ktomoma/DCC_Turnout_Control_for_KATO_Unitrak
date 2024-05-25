@@ -63,7 +63,7 @@ Digital Out in Arduino with HIGH/LOW control the relay module to switch the circ
 
 #### Type 2.
 
-
+<img src="https://github.com/ktomoma/DCC_Turnout_Control_for_KATO_Unitrak/assets/131932595/184b2e07-df25-495e-a4fc-708cc6993b10" width="480">
 
 #### Type 3.
 
