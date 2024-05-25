@@ -38,11 +38,6 @@ The proposed circuit is describef in Turnout Controller HW section.
 
 Type 1. Using a charing and discharging current for a capacitor
 
-This type uses a momentary DC current that is generated when charging a capacitor and discharging it.
-
-Digital Out in Arduino with HIGH/LOW control the relay module to switch the circuit to the capacitor. The DC current is generated when the pinout is changed from HIGH to LOW, from LOW to HIGH.
-
-
 Type 2. Motor Driver IC TA7219P
 
 Type 3. Using relays
@@ -60,7 +55,15 @@ The decoder portion is included in Arduino sketch in in the Turnout Controller. 
 ### Turnout Controller HW
 #### Type 1.
 
+This type uses a momentary DC current that is generated when charging a capacitor and discharging it.
+
+Digital Out in Arduino with HIGH/LOW control the relay module to switch the circuit to the capacitor. The DC current is generated when the pinout is changed from HIGH to LOW, from LOW to HIGH.
+
+
+
 #### Type 2.
+
+
 
 #### Type 3.
 
