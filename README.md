@@ -33,11 +33,14 @@ Also KATO introduced the compatibility of their UNITRAK product with DCC here.
 * https://katousa.com/using-unitrack-with-dcc/
 
 ## Methods to control a turnout
-1. Using a charing and discharging current for a capacitor
-2. Motor Driver IC TA7219P
-3. Using relays
-4. Combination of a capacitor and relays for multiple turnouts
-5. Combination of TA7219P and relays for multiple turnouts
+There are several possible approach to generate 12V signal to operate the solenoid in the Kato Unitrack turnout.
+The proposed circuit is describef in Turnout Controller HW section.
+
+Type 1. Using a charing and discharging current for a capacitor
+Type 2. Motor Driver IC TA7219P
+Type 3. Using relays
+Type 4. Combination of a capacitor and relays for multiple turnouts
+Type 5. Combination of TA7219P and relays for multiple turnouts
 
 ## Hardware
 ### DCC Accesary Decoder
@@ -45,7 +48,13 @@ DCC Accesary Decoder consits of an analog cirtuit portion to downconvert 12V~18V
 The analog circuit portion is made with octocuppler IC 6N137, and the recommended circuit is described in DCCInspector-EX section of DCC-EX project page [^2] and Fun with Arduino 29 DCC Accessory Decoder [^3].
 The decoder portion is included in Arduino sketch in in the Turnout Controller. Please see Turnout Contoller next.
 
-### Turnout Controller
+### Turnout Controller HW
+#### Type 1.
+
+#### Type 2.
+
+#### Type 3.
+
 
 ## Reference
 [^1]: Kato Power Pack: 
