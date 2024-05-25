@@ -59,7 +59,7 @@ This type uses a momentary DC current that is generated when charging a capacito
 
 Digital Out in Arduino with HIGH/LOW control the relay module to switch the circuit to the capacitor. The DC current is generated when the pinout is changed from HIGH to LOW, from LOW to HIGH.
 
-<img src="https://github.com/ktomoma/DCC_Turnout_Control_for_KATO_Unitrak/assets/131932595/1cc78f66-5b71-498b-8b7f-40358d0bc2f3" width="480">
+<img src="https://github.com/ktomoma/DCC_Turnout_Control_for_KATO_Unitrak/assets/131932595/c26ea17c-5443-4fb6-9071-999ae2f11de1" width="480">
 
 #### Type 2.
 
