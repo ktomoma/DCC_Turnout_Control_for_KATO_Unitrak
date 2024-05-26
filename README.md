@@ -55,13 +55,17 @@ The decoder portion is included in Arduino sketch in in the Turnout Controller. 
 ### Turnout Controller HW
 #### Type 1.
 
-This type uses a momentary DC current that is generated when charging a capacitor and discharging it.
+Type 1 uses a momentary DC current that is generated when charging a capacitor and discharging it.
 
 Digital Out in Arduino with HIGH/LOW control the relay module to switch the circuit to the capacitor. The DC current is generated when the pinout is changed from HIGH to LOW, from LOW to HIGH.
 
 <img src="https://github.com/ktomoma/DCC_Turnout_Control_for_KATO_Unitrak/assets/131932595/c26ea17c-5443-4fb6-9071-999ae2f11de1" width="480">
 
 #### Type 2.
+
+Type 2 uses Motor Driver IC TA8219P. TA8219 has 2 inputs/outputs and the voltage of the output is equal to the voltage at the reference input at pin 4. 12V DC is induced to Pin 4 of TA8219P, and output at Pin 2 and 10 become the putput 12V pulse signal which are in sync to pin 5 and 6.
+
+Sketch Turnout_Control_Type2_for_Kato_Unitrack.ino sends 100 ms pulse of 12D VC to one one the output. 
 
 <img src="https://github.com/ktomoma/DCC_Turnout_Control_for_KATO_Unitrak/assets/131932595/d525b9fb-4677-46b2-b1a8-707e32c69474" width="480">
 
