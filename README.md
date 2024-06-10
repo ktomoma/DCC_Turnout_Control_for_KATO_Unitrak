@@ -40,11 +40,7 @@ Type 1. Using a charing and discharging current for a capacitor
 
 Type 2. Motor Driver IC TA7219P
 
-Type 3. Using relays
-
-Type 4. Combination of a capacitor and relays for multiple turnouts
-
-Type 5. Combination of TA7219P and relays for multiple turnouts
+Type 3. Combination of TA7219P and relays for multiple turnouts
 
 ## Hardware
 ### DCC Accesary Decoder
