@@ -67,6 +67,12 @@ Sketch Turnout_Control_Type2_for_Kato_Unitrack.ino sends 100 ms pulse of 12D VC 
 
 #### Type 3.
 
+Type 2 uses two pinout in an Arduino for one turnout. Type 3 is a design to manage multiple turnouts with less number of pinout in the Arduino. The polarity is made with two output from TA8219P Motor Driver. Then, the selection for the turnout to be controled is managed by a relay. The idea is to close just one relay and pick one turnout, and generate 12V pulse signal from TA82129P.
+The required outpin in the Arduino becomes number of turnout + 2.
+
+
+
+
 
 ## Reference
 [^1]: Kato Power Pack: 
